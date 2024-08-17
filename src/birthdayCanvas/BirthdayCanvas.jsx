@@ -191,7 +191,7 @@ const BirthdayCanvas = () => {
   const bodyStyle = {
     margin: 0,
     background: "#020202",
-    height: "500px",
+    height: window.innerHeight - 50,
     overflow: "hidden",
   };
 

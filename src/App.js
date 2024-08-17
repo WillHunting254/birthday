@@ -17,10 +17,10 @@ const App = () => {
 
   return (
     <div className="App">
-      <div style={{height: 500}}>
+      <div style={{height: '90%'}}>
       <BirthdayCanvas/>
       </div>
-      <div style={{height: 47, backgroundColor:'#070707', justifyContent:'center', alignContent:'center'}}>
+      <div style={{height: 47, backgroundColor:'#020202', justifyContent:'center', alignContent:'center'}}>
       {!isWaiting && (<h1 style={{backgroundColor: "black",
     color: "white",
     paddingBottom: 10,}}>
