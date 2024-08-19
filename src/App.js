@@ -3,6 +3,7 @@ import './App.css';
 import background from './assets/ringOp.png'
 import BirthdayCanvas from './birthdayCanvas/BirthdayCanvas';
 import { Messages } from './messages/Messages';
+import { Timeline } from './Timeline';
 
 const App = () => {
   const [isWaiting, setIsWaiting] = useState(true);
@@ -23,13 +24,16 @@ const App = () => {
       <div style={{height: 47, backgroundColor:'#020202', justifyContent:'center', alignContent:'center'}}>
       {!isWaiting && (<h1 style={{backgroundColor: "black",
     color: "white",
-    paddingBottom: 10,}}>
-        Vaaaay iyisin haa. Cumhurbaşkanıda doğum gününü kutlamış
+    paddingBottom: 10, fontSize:24}}>
+        23 Ağustosta Neler oldu?
       </h1>)}
       </div>
+      <Timeline/>
       <Messages/>
+      <div style={{height:2000}}>
 
-
+      </div>
+      
       <div className="App" style={{ 
       backgroundImage: `url(${background})`,
       backgroundSize: 'cover',
