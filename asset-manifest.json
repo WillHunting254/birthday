@@ -1,18 +1,20 @@
 {
   "files": {
-    "main.css": "/birthday/static/css/main.ed61696a.css",
-    "main.js": "/birthday/static/js/main.2fd3a4a3.js",
+    "main.css": "/birthday/static/css/main.a30139f5.css",
+    "main.js": "/birthday/static/js/main.408c8c72.js",
     "static/js/453.9c2b4894.chunk.js": "/birthday/static/js/453.9c2b4894.chunk.js",
     "static/media/ringOp.png": "/birthday/static/media/ringOp.65954e83d853906cfddc.png",
-    "static/media/trump.mp4": "/birthday/static/media/trump.005902aecc992261c65c.mp4",
+    "static/media/mj.mp4": "/birthday/static/media/mj.36771f0cc7fb6766b4e9.mp4",
+    "static/media/trump.mp4": "/birthday/static/media/trump.f9803766ef80a017ada7.mp4",
     "static/media/erdogan.mp4": "/birthday/static/media/erdogan.cf00231047f3417b855f.mp4",
+    "static/media/earth.jpg": "/birthday/static/media/earth.ff89def2efd49b7fd1c7.jpg",
     "index.html": "/birthday/index.html",
-    "main.ed61696a.css.map": "/birthday/static/css/main.ed61696a.css.map",
-    "main.2fd3a4a3.js.map": "/birthday/static/js/main.2fd3a4a3.js.map",
+    "main.a30139f5.css.map": "/birthday/static/css/main.a30139f5.css.map",
+    "main.408c8c72.js.map": "/birthday/static/js/main.408c8c72.js.map",
     "453.9c2b4894.chunk.js.map": "/birthday/static/js/453.9c2b4894.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.ed61696a.css",
-    "static/js/main.2fd3a4a3.js"
+    "static/css/main.a30139f5.css",
+    "static/js/main.408c8c72.js"
   ]
 }
