@@ -16,6 +16,7 @@ const App = () => {
      }, [5000]);
     }, []);
 
+
   return (
     <div className="App">
       <div style={{height: '90%'}}>
@@ -59,7 +60,7 @@ Senin yaninda kendimi çok değerli hissediyorum. Allahın bana verdiği en büy
 <br></br>
 <br></br>
 <p style={{fontSize:11}}>Yazsam en az bunun 5-10 katı daha yazarım ama onları evlendikten sonra söylerim. Çünkü o sözleri filtre edemem. Bu sözlerle sınırı açtıysam Allah affetsin. Allahım bizi bu dünyada ve ahirette ayırmasın. Bizim aramızdaki muhabbeti dahada güzel yapsın. Bir birimize sevgi, saygı ve merhameti her gün daha da güçlendirsin. Birbirimize kırıcı sözler söylemekten sakındırsın. Öfke ile söylenen, karşı tarafın hayatı boyunca unutamayacağı kırıcı sözler söylemekten men etsin. Allahım bizi hiç bir zaman küstürmesin. Olursa da hemen birbirimizden özür dileyip aramızı düzeltsin. Allahım bizleri birbirimizden bıktırmasın. Allahım bizleri birbirimizden bıktırmasın. Allahım bizleri birbirimizden bıktırmasın. Beraber ilim yapmayı nasip eylesin. Birbirimizin gözünde en güzel insan yapsın. Sevgimizi herdaim birbirimize gösterebilmeyi nasip etsin. Allahın hoşnut olacağı bir nesil yetiştirmeyi nasip eylesin. Islama faydalı bir nesil yetiştirmeyi nasip eylesin. Allahım bize evlenmeyi nasip eylesin. İmtihanlarımızı kolaylaştırsın. Allahın rızasını beraber kazanmayı ve cennetede beraber olmayı nasip eylesin. Duacınım</p>
-<p style={{fontSize:9, color:'lightgray'}}>Muhammed Senturk</p>
+<p style={{fontSize:4, color:'lightgray'}}>Seni seviyorum</p>
     </div>
     </div>
 
